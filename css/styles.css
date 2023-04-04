@@ -10940,7 +10940,7 @@ hr.divider-light {
 header.masthead {
   padding-top: 28rem;
   padding-bottom: 28rem;
-  background: url("../pexels-cottonbro-studio-6654809.jpg");
+  background: url("../tab.png");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -10998,8 +10998,8 @@ padding-top: 3rem;
   margin-bottom: 2rem;
 }
 
-#services{
-margin-bottom: 5rem;
+  #services{
+padding-bottom: 50px;
 }
 
 
@@ -11050,6 +11050,15 @@ margin-bottom: 5rem;
   #carouselExample {
     display: none;
   }
+  
+  #about img{
+  top: 14.5rem;
+}
+  #services{
+padding-bottom: 250px;
+}
+  
+
 }
 
 }
